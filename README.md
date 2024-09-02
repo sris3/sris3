@@ -6,7 +6,7 @@ Developer / Solution Architect
 
 I've been coding since 1996 from legacy BASIC, C,C++, FoxPro and Modern System .NET Framework, Angular, React, PHP
 
-*   🌍  I'm based in Chennai
+*   🌍  I'm based in Chennai,Tamilnadu,INDIA
 *   ✉️  You can contact me at [sridharsocialn@gmail.com](mailto:sridharsocialn@gmail.com)
 *   🧠  I'm learning Setting up Custom RAG
 *   🤝  I'm open to collaborating on AI Related Project
